@@ -1,0 +1,50 @@
+body
+{
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+#title
+{
+  text-align: center;
+}
+
+.navbar
+{
+  border-color: black;
+  background-color: #8F2BE6;
+}
+
+.navbar-brand
+{
+  color: white;
+}
+
+.river-image
+{
+  padding: 50 100 50 100;
+  margin: 50px 0px 50px 0px;
+}
+
+
+#mission-statement
+{
+  margin: 50px 50px 50px 50px;
+  padding: 50px 50px 50px 50px;
+}
+
+.testimonial-section{}
+
+.testimonial{}
+
+.yoga-cred-images
+{
+  margin: 200px 50px 200px 50px;
+}
+
+.about-me{}
+
+.contact-us{}
+
+/*Include logos in footer*/
+#footer{}
