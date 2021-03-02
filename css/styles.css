@@ -1,14 +1,83 @@
 .container-fluid
 {
-    
+  margin: 0px 0px 0px 0px;
 }
 
 .navbar
 {
-    color: #9933ff;
+
 }
 
-#Welcome
+.nav-item
 {
-    
+}
+
+.nav-link
+{
+  color: #FFFFFF;
+}
+
+.website-heading
+{
+  background-color: #9933ff;
+}
+
+.welcome
+{
+
+}
+
+#welcome-image
+{
+  width: 1000;
+  height: 300;
+}
+
+.img-fluid
+{
+  width: 100%;
+}
+
+.welcome-title
+{
+  font-family: "Montserrat", serif;
+  text-align: center;
+  background-color: #9933FF;
+  color: #FFFFFF;
+}
+
+.welcome-message
+{
+  text-align: center;
+  font-family: "Ubuntu", serif;
+}
+
+.site-brand
+{
+  font-family: "Montserrat", serif;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+.footer
+{
+  align-: center;
+}
+
+@media
+{
+
+}
+@media
+{
+
+}
+@media
+{
+
+}
+@media
+{
+
 }
