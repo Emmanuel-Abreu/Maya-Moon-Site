@@ -29,8 +29,13 @@
 
 #welcome-image
 {
-  width: 1000;
-  height: 300;
+  width: 1000px;
+  height: 300px;
+}
+
+.home-images
+{
+
 }
 
 .img-fluid
