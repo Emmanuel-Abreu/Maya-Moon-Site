@@ -1,16 +1,42 @@
+/*CSS Classes*/
+.chakra-symbol
+{
+
+}
+
 .container-fluid
 {
   margin: 0px 0px 0px 0px;
 }
 
-.contact-form
+.footer-image
 {
-  
+  justify-content: center;
 }
+
+.home-images
+{
+
+}
+
+
+.img-fluid
+{
+  width: 100%;
+  height: 300px;
+}
+
 
 .navbar
 {
+  background-color: #9933FF;
+  color: #FFFFFF;
+}
 
+.navbar-brand
+{
+  align: left;
+  text: #FFFFFF;
 }
 
 .nav-item
@@ -22,9 +48,23 @@
   color: #FFFFFF;
 }
 
+.page-header
+{
+
+}
+
 .profile-pic
 {
 
+}
+
+
+.site-brand
+{
+  font-family: "Montserrat", serif;
+  font-weight: bold;
+  text-align: center;
+  color: white;
 }
 
 .website-heading
@@ -43,15 +83,11 @@
   height: 300px;
 }
 
-.home-images
-{
 
-}
-
-.img-fluid
+.welcome-message
 {
-  width: 100%;
-  height: 300px;
+  text-align: center;
+  font-family: "Ubuntu", serif;
 }
 
 .welcome-title
@@ -62,24 +98,30 @@
   color: #FFFFFF;
 }
 
-.welcome-message
+
+
+
+
+/*CSS IDs*/
+
+#contact-form
 {
-  text-align: center;
-  font-family: "Ubuntu", serif;
+  
 }
 
-.site-brand
+
+#header
 {
-  font-family: "Montserrat", serif;
-  font-weight: bold;
-  text-align: center;
-  color: white;
+
 }
 
-.footer
+#footer
 {
-  align-: center;
+  width: 100%;
 }
+
+/*Media Breakpoints*/
+
 
 @media
 {
