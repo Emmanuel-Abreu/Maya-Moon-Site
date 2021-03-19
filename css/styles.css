@@ -1,3 +1,10 @@
+/*type selectors*/
+
+h1
+{
+  text-align: center;
+}
+
 /*CSS Classes*/
 .chakra-symbol
 {
@@ -9,9 +16,9 @@
   margin: 0px 0px 0px 0px;
 }
 
-.footer-image
-{
-  justify-content: center;
+.footer-image 
+{ 
+  text-align: center;
 }
 
 .home-images
@@ -33,10 +40,10 @@
   color: #FFFFFF;
 }
 
-.navbar-brand
+.navbar-light .navbar-brand 
 {
   align: left;
-  text: #FFFFFF;
+  color: #FFFFFF;
 }
 
 .nav-item
@@ -53,15 +60,13 @@
 
 }
 
-.profile-pic
+.profile-pic 
 {
 
-}
-
+} 
 
 .site-brand
-{
-  font-family: "Montserrat", serif;
+{ font-family: "Montserrat", serif;
   font-weight: bold;
   text-align: center;
   color: white;
