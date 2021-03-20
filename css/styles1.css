@@ -6,9 +6,11 @@ h1
 }
 
 /*CSS Classes*/
-.chakra-symbol
+.chakra
 {
-
+  width: 20px;
+  height: 20px;
+  background-color: red;
 }
 
 .container-fluid

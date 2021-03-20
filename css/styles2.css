@@ -1,0 +1,25 @@
+/*Type Selectors*/
+
+
+/*Class Selectors*/
+
+.container-fluid
+{
+  margin: 0px 0px 0px 0px;
+}
+
+.navbar
+{
+  background-color: #9933FF;
+  color: #FFFFFF;
+}
+
+.navbar-light .navbar-brand 
+{
+  align: left;
+  color: #FFFFFF;
+}
+
+/*IDs*/
+
+
