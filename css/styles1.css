@@ -1,11 +1,15 @@
-/*type selectors*/
+/****************
+  type selectors
+ ****************/
 
 h1
 {
   text-align: center;
 }
 
-/*CSS Classes*/
+/*************
+  CSS Classes
+ *************/
 .chakra
 {
   width: 20px;
@@ -109,7 +113,9 @@ h1
 
 
 
-/*CSS IDs*/
+/********
+  CSS IDs
+ ********/
 
 #contact-form
 {
@@ -127,22 +133,16 @@ h1
   width: 100%;
 }
 
-/*Media Breakpoints*/
+/******************
+  Media Breakpoints
+ ******************/
 
 
-@media
+@media only screen and (max-width: 600px) 
 {
-
+  [class*="col-"]
+  {
+    width: 100%;
+  }
 }
-@media
-{
 
-}
-@media
-{
-
-}
-@media
-{
-
-}
