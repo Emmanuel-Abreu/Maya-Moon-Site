@@ -10,7 +10,8 @@
 
 .navbar
 {
-  background-color: #9933FF;
+  /*background-color: #9933FF;*/
+  background-color: #cc39e3;
   color: #FFFFFF;
 }
 
@@ -46,4 +47,12 @@
 
 /**/
 
+@media screen and (max-width: 600px) {
+  body {
+  }
 
+  .navbar
+  {
+
+  }
+}

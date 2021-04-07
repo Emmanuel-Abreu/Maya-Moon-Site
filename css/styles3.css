@@ -1,0 +1,25 @@
+/*type selectors*/
+
+/*class selectors*/
+
+.navbar
+{
+  position: sticky;
+  background-color: #cc39e3;
+  color: #FFFFFF;
+}
+
+.container-fluid
+{
+  margin: 0px;
+}
+/*ids*/
+
+/*media queries*/
+@media screen and (max-width: 375px) 
+{
+
+}
+/**/
+/**/
+/**/
