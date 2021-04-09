@@ -9,6 +9,11 @@
   color: #FFFFFF;
 }
 
+.navbar-padding
+{
+  padding: 0px;
+}
+
 .container-fluid
 {
   margin: 0px;
