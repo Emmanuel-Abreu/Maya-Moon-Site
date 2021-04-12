@@ -4,9 +4,13 @@
 
 .navbar
 {
-  position: sticky;
   background-color: #cc39e3;
   color: #FFFFFF;
+}
+
+.navbar-toggler
+{
+  margin: 0px 10px 0px 0px;
 }
 
 .navbar-padding
@@ -16,10 +20,37 @@
 
 .container-fluid
 {
-  margin: 0px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
 }
-/*ids*/
 
+.site-title
+{
+  justify-content: left;
+}
+
+.welcome
+{
+
+}
+
+.welcome-image
+{
+
+}
+
+/*ids*/
+#footer
+{
+  margin: 0px 0px 0px 0px;
+}
+
+.welcome
+{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
 /*media queries*/
 @media screen and (max-width: 375px) 
 {
