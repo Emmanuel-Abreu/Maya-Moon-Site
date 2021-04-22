@@ -35,13 +35,18 @@
 
 .welcome
 {
+
 }
 
-.welcome-image-size
+.welcome-images
 {
-  width: 100%; 
+  width: 100%;
 }
 
+.welcome-image
+{
+  width: 25%;
+}
 
 .map
 {
@@ -65,7 +70,36 @@
 }
 
 /*media queries*/
-@media screen and (max-width: 375px) 
+
+/* Extra small devices (phones, 600px and down) */
+@media screen and (max-width: 600px) 
+{
+  .welcome-image
+  {
+    display: hidden;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media screen and (min-width: 600px) 
+{
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media screen and (min-width: 768px) 
+{
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media screen and (min-width: 992px) 
+{
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media screen and (min-width: 1200px) 
 {
 
 }
